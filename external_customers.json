@@ -1,0 +1,113 @@
+[
+    {
+        "first": "ron",
+        "last": "smith",
+        "phonec": "1",
+        "phone": "1231231234",
+        "id": "ferj3289hrt98hasdjfh",
+        "comp": "Sarah's Sales",
+        "email": "ron.smith@example.com"
+    },
+    {
+        "first": "Bob",
+        "last": "White",
+        "phonec": "1",
+        "phone": "143232323",
+        "id": "ferj3289HRTHRTHRT",
+        "email": "bwhite@example.com"
+    },
+    {
+        "first": "Bill",
+        "last": "White",
+        "phonec": "1",
+        "phone": "1489898989",
+        "id": "ferj328989898989",
+        "email": "white.bill@example.com"
+    },
+    {
+        "first": "John",
+        "last": "Smith",
+        "phonec": "1",
+        "phone": "1236547521",
+        "id": "ferj45625871",
+        "email": "jsmith@example.com"
+    },
+    {
+        "first": "Nancy",
+        "last": "Drew",
+        "phonec": "1",
+        "phone": "9654587452",
+        "id": "ferj312654945",
+        "email": "nancyDrew@example.com"
+    },
+    {
+        "first": "Westin",
+        "last": "Garth",
+        "phonec": "1",
+        "phone": "6542589657",
+        "id": "ferj1356135232",
+        "email": "wesGarth@example.com"
+    },
+    {
+        "first": "Brenda",
+        "last": "Nantucket",
+        "phonec": "1",
+        "phone": "6547779854",
+        "id": "ferj1351613242",
+        "email": "BrendaN@example.com"
+    },
+    {
+        "first": "Absolute",
+        "last": "Chad",
+        "phonec": "1",
+        "phone": "6821112365",
+        "id": "ferj1363414323",
+        "email": "sexyMan420@example.com"
+    },
+    {
+        "first": "Roy",
+        "last": "Roger",
+        "phonec": "1",
+        "phone": "6745889121",
+        "id": "ferj4654543254",
+        "email": "drinkinRoy@example.com"
+    },
+    {
+        "first": "Cory",
+        "last": "Broomhandle",
+        "phonec": "1",
+        "phone": "6598857454",
+        "id": "ferj35246545642",
+        "email": "CoryBroom@example.com"
+    },
+    {
+        "first": "Marcus",
+        "last": "Munition",
+        "phonec": "1",
+        "phone": "6547732323",
+        "id": "ferj65486252",
+        "email": "Marcusexample.com"
+    },
+    {
+        "first": "Wayne",
+        "last": "Harris",
+        "phonec": "1",
+        "phone": "6574123945",
+        "id": "ferj515746514",
+        "email": "ceo@example.com"
+    },
+    {
+        "first": "Sandra",
+        "last": "Matthew",
+        "phonec": "1",
+        "phone": "6563235444",
+        "id": "ferj65468745"
+    },
+    {
+        "first": "Quincy",
+        "last": "Adams",
+        "phonec": "1",
+        "phone": "7488576544",
+        "id": "ferj654869756"
+    }
+]
